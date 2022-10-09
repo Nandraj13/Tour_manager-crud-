@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item  android:id="@+id/profile"
+        android:title="Profile"/>
+    <item  android:id="@+id/viewbookings"
+        android:title="View Bookings"/>
+    <item  android:id="@+id/give_suggestions"
+        android:title="Give Suggestion"/>
+    <item  android:id="@+id/exit"
+        android:title="Exit"/>
+</menu>
